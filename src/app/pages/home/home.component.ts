@@ -21,4 +21,11 @@ export class HomeComponent implements OnInit {
     console.log('feature A part 2');
   }
 
+  c1() {
+    console.log('c1');
+  }
+
+  c2() {
+    console.log('c2');
+  }
 }
