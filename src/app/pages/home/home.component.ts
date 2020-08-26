@@ -13,4 +13,11 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
   }
 
+  c1() {
+    console.log('c1');
+  }
+
+  c2() {
+    console.log('c2');
+  }
 }
